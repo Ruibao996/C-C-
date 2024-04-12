@@ -1,1 +1,1 @@
-This file concludes the programming projects in CS110(Algorithm & Data Structure).
+Some cool homework or projects in C & C++!
