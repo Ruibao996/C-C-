@@ -1,1 +1,1 @@
-Some cool homework or projects in C & C++!
+Some cool homework and projects in C & C++!
